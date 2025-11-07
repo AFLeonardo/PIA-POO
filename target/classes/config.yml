@@ -1,0 +1,7 @@
+npc_skins:
+  trabajador:
+    nombre: Steve
+  aldeano:
+    nombre: Villager
+  guardia:
+    nombre: Alex

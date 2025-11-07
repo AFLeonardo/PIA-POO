@@ -1,0 +1,11 @@
+com\mycompany\pluginpoo\ComandoProhibirEnd.class
+com\mycompany\pluginpoo\ComandoNpc.class
+com\mycompany\pluginpoo\ManejadorNpc.class
+com\mycompany\pluginpoo\PLUGINPOO.class
+com\mycompany\pluginpoo\ComandoTp.class
+com\mycompany\pluginpoo\npc\NPC.class
+com\mycompany\pluginpoo\PLUGINPOO$1.class
+com\mycompany\pluginpoo\ManejadorNpc$1.class
+com\mycompany\pluginpoo\EventoEnd.class
+com\mycompany\pluginpoo\ComandoNpc$1.class
+com\mycompany\pluginpoo\UtilsConfig.class

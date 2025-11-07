@@ -1,0 +1,32 @@
+name: PLUGINPOO
+main: com.mycompany.pluginpoo.PLUGINPOO
+version: 1.0
+api-version: 1.21
+author: Erick
+description: Plugin de permisos y NPCs personalizados
+
+
+commands:
+  tp:
+    description: Teletransportarse a otro jugador.
+    usage: /tp <jugador>
+    permission: pluginpoo.tp
+
+  prohibirend:
+    description: Activa o desactiva la prohibición del End.
+    usage: /prohibirend
+    permission: pluginpoo.admin
+
+  npc:
+    description: Crea o administra NPCs.
+    usage: /npc <tipo>
+    permission: pluginpoo.admin
+
+permissions:
+  pluginpoo.tp:
+    description: Permite usar /tp
+    default: true
+
+  pluginpoo.admin:
+    description: Permite usar todos los comandos administrativos
+    default: op
